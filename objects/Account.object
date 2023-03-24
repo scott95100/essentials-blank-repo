@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Essentialstesting__c</fullName>
+        <externalId>false</externalId>
+        <label>Essentialstesting</label>
+        <length>15</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>GithubTest__c</fullName>
+        <description>Hey yo</description>
+        <externalId>false</externalId>
+        <label>GithubTest1</label>
+        <length>15</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>back_deploy_test__c</fullName>
+        <description>testing back deploying created user story from prod</description>
+        <externalId>false</externalId>
+        <label>back deploy test</label>
+        <length>32768</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+</CustomObject>
