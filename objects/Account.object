@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
+        <fullName>Contract_Staging_SAP_Contract_Number__c</fullName>
+        <description>Contract_Staging__c.SAP_Contract_Number__c</description>
+        <externalId>false</externalId>
+        <label>Contract Staging SAP Contract Number</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>8</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>NumberofLocations__c</fullName>
         <externalId>false</externalId>
         <label>Number of Locations</label>
